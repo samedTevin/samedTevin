@@ -2,17 +2,19 @@
 
 ###
 
-<img align="left" height="292" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc4eTA4aWpoOXI5aW0xeDdsY280emt3eHpqZzJyMGExYzRvZDdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
-
-###
-
 <h2 align="left">📌 About Me</h2>
 
 ###
 
-<p align="left">• I am a second-year Software Engineering student at Altınbaş University with a strong interest in technology and science.<br><br>• My main focus is software development, and I aim to specialize in data science.<br><br>• I enjoy learning, problem-solving, and improving my skills in different areas.<br><br>• In my free time, I like exploring new ideas, keeping up with trends, and expanding my knowledge.<br><br>• I also have a deep interest in history and enjoy researching historical events and concepts.</p>
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc4eTA4aWpoOXI5aW0xeDdsY280emt3eHpqZzJyMGExYzRvZDdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
 
 ###
+
+<p align="left">• I am a second-year Software Engineering student at Altınbaş University with a strong interest in technology and science.<br><br>   • My main focus is software development, and I aim to specialize in data science.<br><br>   • I enjoy learning, problem-solving, and improving my skills in different areas.<br><br>   • In my free time, I like exploring new ideas, keeping up with trends, and expanding my knowledge.<br><br>   • I also have a deep interest in history and enjoy researching historical events and concepts.</p>
+
+###
+
+<br clear="both">
 
 <h2 align="left">💻 Programming Languages</h2>
 
@@ -28,9 +30,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">🗃️ Database</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="51" alt="mysql logo"  />
