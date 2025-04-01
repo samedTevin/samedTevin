@@ -2,17 +2,15 @@
 
 ###
 
+<img align="left" height="292" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc4eTA4aWpoOXI5aW0xeDdsY280emt3eHpqZzJyMGExYzRvZDdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
+
+###
+
 <h2 align="left">📌 About Me</h2>
 
 ###
 
-<p align="left">I'm a second-year software engineering student at Altinbas University.</p>
-
-###
-
-<div align="left">
-  <img height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg0b3gyYzh2cjVraXFpdXlvbnVjaDdmZHdoc2oyYXUzZGl4c3o0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
-</div>
+<p align="left">• I am a second-year Software Engineering student at Altınbaş University with a strong interest in technology and science.<br><br>• My main focus is software development, and I aim to specialize in data science.<br><br>• I enjoy learning, problem-solving, and improving my skills in different areas.<br><br>• In my free time, I like exploring new ideas, keeping up with trends, and expanding my knowledge.<br><br>• I also have a deep interest in history and enjoy researching historical events and concepts.</p>
 
 ###
 
@@ -57,13 +55,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samedtevin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/samedthevin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
   <a href="https://stackoverflow.com/users/30035414/samedtevin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
