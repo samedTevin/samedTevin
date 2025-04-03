@@ -78,11 +78,6 @@
 </div>
 
 ###
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=samedthevin.samedthevin&left_color=darkblue&right_color=royalblue"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samedthevin/samedthevin/output/github-snake-dark.svg" />
