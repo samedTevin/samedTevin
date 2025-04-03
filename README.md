@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• I am a second-year Software Engineering student at Altınbaş University with a strong interest in technology and science.<br><br>   • My main focus is software development, and I aim to specialize in data science.<br><br>   • I enjoy learning, problem-solving, and improving my skills in different areas.<br><br>   • In my free time, I like exploring new ideas, keeping up with trends, and expanding my knowledge.<br><br>   • I also have a deep interest in history and enjoy researching historical events and concepts.</p>
+<p align="left">• 🎓 I’m a second-year Software Engineering student at Altınbaş University.<br>• 🎯 My focus is software development and data science.<br>• 💡 I enjoy learning, problem-solving, and improving my skills.<br>• 🧠 I explore new ideas, follow trends, and expand my knowledge.<br>• 🪖 I love history and researching historical events.<br>• 🎮  I also enjoy playing PC games.</p>
 
 ###
 
@@ -21,11 +21,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="46" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="47" alt="c logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="46" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="47" alt="java logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="46" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="47" alt="python logo"  />
 </div>
 
 ###
@@ -39,7 +39,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="51" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="57" alt="mysql logo"  />
 </div>
 
 ###
