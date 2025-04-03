@@ -1,4 +1,4 @@
-<<h2 align="left">Hi 👋! I'm Samed.</h2>
+<h2 align="left">Hi 👋! I'm Samed.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">• 🎓 I’m a second-year Software Engineering student at Altınbaş University.<br><br>• 🎯 My focus is software development and data science.<br><br>• 💡 I enjoy learning, problem-solving, and improving my skills.<br><br>• 🧠 I explore new ideas, follow trends, and expand my knowledge.<br><br>• 🪖 I love history and researching historical events.<br><br>• 🎮  I also enjoy playing PC games.</h5>
+<h4 align="left">• 🎓 I’m a second-year Software Engineering student at Altınbaş University.<br><br>• 🎯 My focus is software development and data science.<br><br>• 💡 I enjoy learning, problem-solving, and improving my skills.<br><br>• 🧠 I explore new ideas, follow trends, and expand my knowledge.<br><br>• 🪖 I love history and researching historical events.<br><br>• 🎮  I also enjoy playing PC games.</h4>
 
 ###
 
@@ -73,6 +73,11 @@
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samedthevin.samedthevin&left_color=darkblue&right_color=royalblue"  />
+</div>
+
+###
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=samedthevin.samedthevin&left_color=darkblue&right_color=royalblue"  />
 </div>
