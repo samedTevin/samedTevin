@@ -49,8 +49,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samedthevin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samedthevin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=samedTevin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samedTevin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -74,13 +74,13 @@
 ###
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=samedthevin.samedthevin&left_color=darkblue&right_color=royalblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samedthevin.samedTevin&left_color=darkblue&right_color=royalblue"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samedthevin/samedthevin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samedthevin/samedthevin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/samedthevin/samedthevin/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samedTevin/samedTevin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samedTevin/samedTevin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samedTevin/samedTevin/output/github-snake.svg" />
 </picture>
