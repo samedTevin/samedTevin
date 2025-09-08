@@ -1,5 +1,5 @@
 ### Hi 👋
- I'm samedTevin, a design engineer.
+ I'm samedTevin, a software engineer.
 
 ### ✍️ Languages 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
