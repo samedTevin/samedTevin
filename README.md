@@ -1,81 +1,26 @@
-<h2 align="left">Hi 👋! I'm Samed.</h2>
+### Hi 👋
+ I'm samedTevin, a design engineer.
 
-###
+### ✍️ Languages 
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76)
 
-<h2 align="left">📌 About Me</h2>
+### 🛠 Tech Stack and Tools 
 
-###
+| End | Stack |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Desktop](https://img.shields.io/badge/-Desktop-black?style=flat) | ![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| ![Programming](https://img.shields.io/badge/-Programming-black?style=flat) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) |
+| ![Database](https://img.shields.io/badge/-Database-black?style=flat) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat) | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code) |
+| ![Workflow](https://img.shields.io/badge/-Other-black?style=flat) | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) |
 
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc4eTA4aWpoOXI5aW0xeDdsY280emt3eHpqZzJyMGExYzRvZDdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
+### ❤️ GitHub Stats 
 
-###
+![samedTevin's github stats](https://github-readme-stats.vercel.app/api?username=samedTevin&show_icons=true)
 
-<h4 align="left">• 🎓 I’m a second-year Software Engineering student at Altınbaş University.<br><br>• 🎯 My focus is software development and data science.<br><br>• 💡 I enjoy learning, problem-solving, and improving my skills.<br><br>• 🧠 I explore new ideas, follow trends, and expand my knowledge.<br><br>• 🪖 I love history and researching historical events.<br><br>• 🎮  I also enjoy playing PC games.</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="left">💻 Programming Languages</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="47" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="47" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="47" alt="python logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🗃️ Database</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="57" alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left">🗺️ GitHub Overview</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samedTevin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samedTevin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">🔗 Connect With Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/samedtevin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/samedthevin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/30035414/samedtevin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=samedthevin.samedTevin&left_color=darkblue&right_color=royalblue"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samedTevin&layout=compact)
 
 ###
 
